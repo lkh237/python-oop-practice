@@ -26,5 +26,5 @@ Daily exercises to master object-oriented programming in Python, based on core c
 
 ## About
 
-I try only haha can I finish in 14 days? today is 1 June 2025. New month new me hehe
+I try only haha can I finish in 14 days? today is 8 June 2025. New month new me hehe
 
